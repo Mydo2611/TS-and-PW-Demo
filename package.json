@@ -1,0 +1,22 @@
+{
+  "name": "ts-and-pw-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mydo2611/TS-and-PW-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mydo2611/TS-and-PW-Demo/issues"
+  },
+  "homepage": "https://github.com/Mydo2611/TS-and-PW-Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  }
+}
